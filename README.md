@@ -11,7 +11,7 @@
    >JSON format
    >Custom parameters
    
- ->If user use JSON format ,then data should me entered in 'Key':'value' format
+ ->If user use JSON format ,then data should be entered in 'Key':'value' format
  
    
 ->If user choose custom parameters ,then things become quite easy as they will have
